@@ -1,0 +1,16 @@
+*.log
+*.pot
+*.pyc
+__pycache__/
+local_settings.py
+db.sqlite3
+media
+#보안 위한거!!
+
+
+#git innit ---> 초기화
+#git status --> 현재 상태 확인
+#git add.  ---> 현재 폴더를 작업공간에서 staging area로
+#git commit --> staging area 에서 repository로, -m "first commit" 처럼 메세지 남김
+#git remote add origin ---> 레포지토리랑 컴퓨터를 연결
+#git push -u origin master
